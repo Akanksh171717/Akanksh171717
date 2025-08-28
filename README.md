@@ -52,7 +52,6 @@ Currently pursuing **MS in Information Systems (Data Science)** at Syracuse Univ
 ---
 
 ## 🛠️ Skills  
-## 🛠️ Skills  
 <p align="center"> 
   <img src="https://skillicons.dev/icons?i=python,r,java,mysql,postgres,sqlite,mongodb,aws,azure,git" />
 </p>
