@@ -52,9 +52,16 @@ Currently pursuing **MS in Information Systems (Data Science)** at Syracuse Univ
 ---
 
 ## 🛠️ Skills  
+## 🛠️ Skills  
 <p align="center"> 
-  <img src="https://skillicons.dev/icons?i=python,r,java,mysql,postgres,sqlite,mongodb,snowflake,aws,azure,tableau,powerbi,excel,git" />
+  <img src="https://skillicons.dev/icons?i=python,r,java,mysql,postgres,sqlite,mongodb,aws,azure,git" />
 </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=Snowflake&logoColor=white"/>
+</p>
+
 
 
 ---
