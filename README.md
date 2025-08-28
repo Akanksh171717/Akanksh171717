@@ -53,13 +53,11 @@ Currently pursuing **MS in Information Systems (Data Science)** at Syracuse Univ
 
 ---
 
-## 🛠️ Skills
-- **Programming:** Python, SQL, R, Java, C  
-- **Databases:** MySQL, PostgreSQL, SQLite, MongoDB, Snowflake, Azure  
-- **Visualization:** Tableau, Power BI, ggplot2, Matplotlib, Seaborn, Plotly, Excel  
-- **Machine Learning:** Scikit-learn, XGBoost, LightGBM, TensorFlow, PyTorch, CatBoost  
-- **Data Analysis:** Hypothesis Testing, A/B Testing, Time Series, Regression, ANOVA  
-- **Cloud & Tools:** AWS, Microsoft Azure, Flask, Git, Docker  
+## 🛠️ Skills  
+<p align="center"> 
+  <img src="https://skillicons.dev/icons?i=python,r,java,mysql,postgres,sqlite,mongodb,snowflake,aws,azure,tableau,powerbi,excel,git" />
+</p>
+
 
 ---
 
@@ -115,7 +113,3 @@ Currently pursuing **MS in Information Systems (Data Science)** at Syracuse Univ
 
 ---
 
-<!-- Fun touch -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Akanksh171717/Akanksh171717/output/snake.svg" alt="snake animation"/>
-</p>
