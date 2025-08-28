@@ -49,8 +49,6 @@ Currently pursuing **MS in Information Systems (Data Science)** at Syracuse Univ
 - **Data Analysis: Airbnb NYC** (*Feb 2024*)  
 - **Database Solution for Healthcare Sector** (*Oct–Dec 2023*)  
 
-👉 Detailed descriptions in [Projects Section](#)
-
 ---
 
 ## 🛠️ Skills  
