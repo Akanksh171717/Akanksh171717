@@ -1,9 +1,7 @@
 <h1 align="center"> Hi 👋, I'm Akanksh Shetty </h1>
 <h3 align="center">📊 Data Analyst | SQL • Tableau • Python • R | Turning Data into Insights</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Akanksh171717&label=Profile%20views&color=0e75b6&style=flat" alt="Akanksh171717" />
-</p>
+
 
 ---
 
